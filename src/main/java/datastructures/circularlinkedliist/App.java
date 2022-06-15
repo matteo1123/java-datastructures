@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package circularlinkedlist;
+package datastructures.circularlinkedliist;
 
-import circularlinkedliist.CircularLinkedList;
+import datastructures.circularlinkedliist.CircularLinkedList;
 
 /**
  *

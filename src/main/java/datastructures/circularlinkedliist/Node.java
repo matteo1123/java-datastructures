@@ -1,4 +1,4 @@
-package singlylinkedlist;
+package datastructures.circularlinkedliist;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -8,13 +8,13 @@ package singlylinkedlist;
 
 /**
  *
- * @author matt
+ * @author matte
  */
 public class Node {
     public int data;
     public Node next;
     
     public void displayNode() {
-        System.out.println("{ " + data + " } " );
-    }
+            System.out.println("{ " + data + " } " );
+            }
 }
